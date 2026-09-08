@@ -1,24 +1,60 @@
-# Projeto Missões Espaciais
+# 🚀 Missões Espaciais
 
-Projeto desenvolvido para praticar os conhecimentos básicos de HTML.
+Projeto desenvolvido como atividade prática da disciplina de **Desenvolvimento Front-End para Web**, utilizando **HTML5 puro**.
 
-O site apresenta informações sobre missões espaciais e possui várias páginas com navegação entre elas.
+## 📋 Sobre o Projeto
 
-## Páginas
+O site consiste em um projeto informativo sobre importantes **missões e tecnologias espaciais** que marcaram a história da exploração do espaço.
 
-- Início
-- Apollo 11
-- Voyager
-- James Webb
-- Curiosidades
-- Quiz
-- Gabarito
-- Agradecimento
+O projeto possui uma página inicial e páginas específicas com informações, imagens, curiosidades e conteúdos sobre diferentes missões e equipamentos espaciais.
 
-## Tecnologia utilizada
+## 🛠️ Tecnologias Utilizadas
 
-- HTML5
+* **HTML5:** Utilizado para a estruturação das páginas, textos, imagens, links, menus de navegação e organização do conteúdo.
 
-## Objetivo
+## 🌌 Conteúdos em Destaque
 
-Praticar a criação de páginas HTML, organização de conteúdo e navegação entre diferentes páginas de um site.
+1. 🚀 **Apollo 11** — A missão que levou os primeiros seres humanos à Lua.
+2. 🛰️ **Voyager** — Sondas espaciais responsáveis pela exploração dos planetas externos do Sistema Solar.
+3. 🔭 **Telescópio James Webb** — Telescópio espacial desenvolvido para observar o universo, principalmente na região do infravermelho.
+4. 🌠 **Curiosidades Espaciais** — Informações e fatos interessantes sobre o espaço e a exploração espacial.
+5. 📝 **Quiz** — Perguntas para testar os conhecimentos adquiridos durante a navegação pelo site.
+
+## 📁 Estrutura do Projeto
+
+O projeto é dividido em diferentes páginas HTML:
+
+* `index.html` — Página inicial
+* `apollo11.html` — Informações sobre a Apollo 11
+* `voyager.html` — Informações sobre as sondas Voyager
+* `jameswebb.html` — Informações sobre o Telescópio James Webb
+* `curiosidades.html` — Curiosidades sobre o espaço
+* `quiz.html` — Quiz sobre os conteúdos apresentados
+
+## 🚀 Como Executar o Projeto
+
+1. Clone este repositório para o seu computador:
+
+```bash
+git clone URL-DO-SEU-REPOSITORIO.git
+```
+
+2. Abra a pasta do projeto.
+
+3. Abra o arquivo:
+
+```text
+index.html
+```
+
+4. O projeto será executado diretamente no navegador.
+
+## 👨‍💻 Objetivo da Atividade
+
+O objetivo deste projeto é praticar os principais conceitos de **HTML5**, como estruturação de páginas, utilização de tags semânticas, links, imagens, menus de navegação e organização de conteúdos.
+
+## 🌍 Tema
+
+**Exploração Espacial e Missões Espaciais**
+
+O projeto apresenta alguns dos acontecimentos e equipamentos mais importantes da história da exploração espacial.
