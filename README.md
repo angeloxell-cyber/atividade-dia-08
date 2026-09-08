@@ -49,12 +49,4 @@ index.html
 
 4. O projeto será executado diretamente no navegador.
 
-## 👨‍💻 Objetivo da Atividade
-
-O objetivo deste projeto é praticar os principais conceitos de **HTML5**, como estruturação de páginas, utilização de tags semânticas, links, imagens, menus de navegação e organização de conteúdos.
-
-## 🌍 Tema
-
-**Exploração Espacial e Missões Espaciais**
-
-O projeto apresenta alguns dos acontecimentos e equipamentos mais importantes da história da exploração espacial.
+#
